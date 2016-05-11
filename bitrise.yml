@@ -32,6 +32,7 @@ workflows:
         - bundle_identifier: com.test.ios
         - profile_type: adhoc
         - certificate_id: 1234567890
+        - team_id: yourteam
     - script:
         is_always_run: true
         inputs:
