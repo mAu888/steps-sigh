@@ -36,6 +36,7 @@ inputs:
       is_required: true
   - team_id: null
     opts:
+      title: "Team ID"
       summary: Team ID, if you are in multiple development teams.
       is_required: false
 outputs:
